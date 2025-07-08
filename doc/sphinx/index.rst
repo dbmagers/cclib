@@ -12,7 +12,7 @@ The goals of cclib are centered around the reuse of data obtained from these pro
 Summary
 -------
 
-The current version is **cclib 1.8** (see the changelog_ for what's new). The following programs are supported and systematically tested at the versions given in parentheses:
+The current version is **cclib 1.8.1** (see the changelog_ for what's new). The following programs are supported and systematically tested at the versions given in parentheses:
 
 - ADF_ (versions 2007 and 2013)
 - DALTON_ (versions 2013 and 2015)
